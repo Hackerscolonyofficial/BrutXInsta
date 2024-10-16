@@ -1,6 +1,6 @@
 BrutXInsta Powerful Bruteforce Attack tool to find instagram Password-
 
-Run this Command to install the Toul.....
+Run this Command to install the Tool.....
  
 𝟭. 𝗽𝗸𝗴 𝘂𝗽𝗱𝗮𝘁𝗲 
 
@@ -8,7 +8,7 @@ Run this Command to install the Toul.....
 
 𝟯. 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁 -𝘆 
 
-𝟰. 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 𝗵𝘁𝘁𝗽𝘀://𝗴𝗶𝘁𝗵𝘂𝗯.𝗰𝗼𝗺/𝗛𝗮𝗰𝗸𝗲𝗿𝘀𝗰𝗼𝗹𝗼𝗻𝘆𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹/𝗕𝗿𝘂𝘁𝗫𝗜𝗻𝘀𝘁𝗮.𝗴𝗶𝘁
+𝟰. 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/Hackerscolonyofficial/BrutXInsta.git
 
 𝟱. 𝗰𝗱 𝗕𝗿𝘂𝘁𝗫𝗜𝗻𝘀𝘁𝗮
 
